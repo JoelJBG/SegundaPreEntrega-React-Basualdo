@@ -1,0 +1,26 @@
+[{
+    "id": 1,
+    "nombre": "Gin de la Casa",
+    "descripcion": "Especiado",
+    "precio": 2500,
+    "img":"/public/gin.jpeg",
+    "stock": 5,
+    "category": "Clasicos"
+  }, {
+    "id": 2,
+    "nombre": "Gin Citric",
+    "descripcion": "Gin Saborizado con Citricos seleccionados",
+    "precio": 2800,
+    "img":"/public/gin.jpeg",
+    "stock": 7,
+    "category": "Saborizados"
+  }, {
+    "id": 3,
+    "nombre": "Gin Frutos Rojos",
+    "descripcion": "Gin Saborizado con frutos Rojos seleccionados",
+    "precio": 2800,
+    "img":"/public/gin.jpeg",
+    "stock": 7,
+    "category": "Saborizados"
+  }
+  ]
